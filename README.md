@@ -1,0 +1,3 @@
+# PullToRefreshRecyclerView
+A simple build based on PullToRefresh Widget..Nothing special ,just implements PullToRefreshBase..then make recyclerview has pulltorefresh fuction...
+
